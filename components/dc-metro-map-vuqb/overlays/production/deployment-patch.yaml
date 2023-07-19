@@ -4,6 +4,7 @@ metadata:
   creationTimestamp: null
   name: dc-metro-map-vuqb
 spec:
+  replicas: 1
   selector: {}
   strategy: {}
   template:
